@@ -1,13 +1,17 @@
 ### Olá! eu sou o Christopher Carlos 🤖
 
-### Contato 📱
+### Contatos 📱
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-carlos-aa0786184/)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christ0pher_carl0s/?hl=pt-br)
+[![Blog](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/christoopher1)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Christ1pher GitHub stats](https://github-readme-stats.vercel.app/api?username=Christ1pher&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
-### Tecnologias que eu uso no meu dia -dia
+### Tecnologias Utilizadas No Dia - Dia.
 
 
 <div style = "display: inline_block"><br/>

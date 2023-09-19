@@ -8,7 +8,9 @@
 
 ![Christ1pher GitHub stats](https://github-readme-stats.vercel.app/api?username=Christ1pher&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christ1pher&theme=dark)
+
 
 
 ### Tecnologias Utilizadas No Dia - Dia.
